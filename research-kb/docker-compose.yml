@@ -1,0 +1,7 @@
+# Local GROBID (structure + references). `docker compose up -d grobid`
+# Bound to 127.0.0.1 so it is not exposed on the network.
+services:
+  grobid:
+    image: grobid/grobid:0.8.2-crf
+    ports: ["127.0.0.1:8070:8070"]
+    restart: unless-stopped

@@ -1,0 +1,93 @@
+# MVP benchmark — 18 domain questions for the ~30-paper validation batch.
+# After ingesting the MVP batch, fill in gold_dois / expected_values from YOUR reading of the
+# papers (do not copy numbers from the system's own output — that would be circular).
+# expected_values: [{material: Fe3GaTe2, quantity: T_C, value: 350, unit: K, tol_rel: 0.05}]
+questions:
+  - id: q01
+    type: comparison
+    question: Compare all reported DMI constants and measurement methods for Fe3GaTe2 across the corpus.
+    gold_dois: []
+    expected_values: []
+    must_mention: [Fe3GaTe2, DMI]
+  - id: q02
+    type: comparison
+    question: What Curie temperatures have been reported for Fe3GaTe2, and how do they depend on thickness or sample form?
+    gold_dois: []
+    expected_values: []
+    must_mention: [Curie]
+  - id: q03
+    type: comparison
+    question: Compare the saturation magnetization and uniaxial anisotropy reported for Fe3GaTe2 and Fe3GeTe2.
+    gold_dois: []
+    expected_values: []
+  - id: q04
+    type: explanation
+    question: What is the proposed origin of the Dzyaloshinskii-Moriya interaction in centrosymmetric Fe3GaTe2 — is it bulk, interfacial, or defect-induced?
+    gold_dois: []
+  - id: q05
+    type: factoid
+    question: At what temperatures and fields have room-temperature skyrmions been observed in Fe3GaTe2, and with which imaging technique?
+    gold_dois: []
+  - id: q06
+    type: comparison
+    question: Which micromagnetic parameters (Msat, Aex, Ku, D, alpha) have been used in MuMax3 simulations of vdW magnet skyrmions in the corpus?
+    gold_dois: []
+  - id: q07
+    type: explanation
+    question: How is the interfacial DMI constant extracted from domain width or stripe period measurements, and what assumptions does it require?
+    gold_dois: []
+  - id: q08
+    type: comparison
+    question: Compare Brillouin light scattering and domain-wall-motion based DMI measurements in terms of reported values and limitations.
+    gold_dois: []
+  - id: q09
+    type: factoid
+    question: What skyrmion diameters have been reported in Fe-based vdW tellurides and at what flake thickness?
+    gold_dois: []
+  - id: q10
+    type: explanation
+    question: How does polar MOKE microscopy reveal perpendicular magnetic anisotropy and domain structure in exfoliated Fe3GaTe2 flakes?
+    gold_dois: []
+  - id: q11
+    type: comparison
+    question: Compare spin-orbit torque switching current densities reported for Fe3GaTe2-based heterostructures.
+    gold_dois: []
+  - id: q12
+    type: explanation
+    question: What mechanisms explain the thickness dependence of the Curie temperature in 2D vdW ferromagnets?
+    gold_dois: []
+  - id: q13
+    type: factoid
+    question: Which papers report the topological Hall effect in Fe3GaTe2 and how is it separated from the anomalous Hall contribution?
+    gold_dois: []
+  - id: q14
+    type: comparison
+    question: What exchange stiffness values are reported or assumed for Fe3GeTe2 and Fe3GaTe2?
+    gold_dois: []
+  - id: q15
+    type: survey
+    question: Summarize the open problems and challenges identified by review papers on room-temperature 2D magnets for skyrmionics.
+    gold_dois: []
+  - id: q16
+    type: explanation
+    question: How do heterostructure interfaces (e.g. with WTe2 or Pt) modify DMI and anisotropy in vdW magnets?
+    gold_dois: []
+  - id: q19
+    type: comparison
+    question: Compare the task accuracies, memory capacity and energy per operation reported for spintronic and skyrmion-based physical reservoir computing.
+    gold_dois: []
+    must_mention: [reservoir]
+  - id: q20
+    type: comparison
+    question: Compare the spin-wave group velocities and attenuation lengths reported for YIG and metallic ferromagnet waveguides in magnonic devices.
+    gold_dois: []
+    must_mention: [spin wave]
+  # --- abstention checks: should NOT be answerable from a spintronics corpus
+  - id: q17
+    type: abstain
+    question: What is the superconducting critical temperature of Fe3GaTe2 under 20 GPa hydrostatic pressure?
+    should_abstain: true
+  - id: q18
+    type: abstain
+    question: What dark-matter detection cross-sections have been reported using Fe3GaTe2 detectors?
+    should_abstain: true

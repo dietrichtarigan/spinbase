@@ -1,0 +1,12 @@
+# safety net at repo root (research-kb/.gitignore has the details)
+.env
+**/.env
+**/.venv/
+**/__pycache__/
+**/data/private_local/*
+!**/data/private_local/README.md
+**/data/raw_pdfs/
+**/data/raw_latex/
+**/data/parsed_md/
+**/data/db/
+**/data/benchmark/runs/

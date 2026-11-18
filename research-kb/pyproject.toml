@@ -1,0 +1,40 @@
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[project]
+name = "research-kb"
+version = "0.1.0"
+description = "Local-first curated physics research knowledge base with agentic, claim-cited RAG (DeepSeek + local embeddings)."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pydantic>=2.6",
+  "pydantic-settings>=2.2",
+  "httpx>=0.27",
+  "numpy>=1.26",
+  "rapidfuzz>=3.6",
+  "pymupdf>=1.24",
+  "bibtexparser>=1.4,<2",
+  "typer>=0.12",
+  "rich>=13.7",
+  "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+# Local dense embeddings (bge-m3 / SPECTER2). Pulls torch.
+embed = ["sentence-transformers>=3.0", "FlagEmbedding>=1.2"]
+# Marker PDF parser (LaTeX-preserving, GPU recommended). Pulls torch.
+marker = ["marker-pdf>=1.0"]
+ui = ["streamlit>=1.36", "pandas>=2.2"]
+api = ["fastapi>=0.111", "uvicorn>=0.30"]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+kb = "src.ui.app:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src", "config"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

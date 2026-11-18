@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+# never commit unpublished data, downloaded papers or the DB
+data/private_local/*
+!data/private_local/README.md
+data/raw_pdfs/
+data/raw_latex/
+data/parsed_md/
+data/db/
+data/benchmark/runs/

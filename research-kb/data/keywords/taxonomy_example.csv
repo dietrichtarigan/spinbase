@@ -1,0 +1,30 @@
+node_id,node,sub_node,keyword,priority
+N01,2D vdW Magnets,Fe-based tellurides,Fe3GaTe2,core
+N01,2D vdW Magnets,Fe-based tellurides,Fe3GeTe2,core
+N01,2D vdW Magnets,Fe-based tellurides,Fe5GeTe2,supporting
+N01,2D vdW Magnets,Chromium compounds,CrI3,supporting
+N01,2D vdW Magnets,Chromium compounds,Cr2Ge2Te6,background
+N02,Skyrmions & Topological Textures,Skyrmion observation,magnetic skyrmion,core
+N02,Skyrmions & Topological Textures,Skyrmion observation,skyrmion lattice,supporting
+N02,Skyrmions & Topological Textures,Other textures,skyrmionium,background
+N03,Dzyaloshinskii-Moriya Interaction,Interfacial DMI,interfacial Dzyaloshinskii-Moriya,core
+N03,Dzyaloshinskii-Moriya Interaction,Measurement,DMI constant,core
+N03,Dzyaloshinskii-Moriya Interaction,Measurement,Brillouin light scattering,supporting
+N04,Magnetic Imaging,Kerr microscopy,magneto-optical Kerr effect,core
+N04,Magnetic Imaging,Electron microscopy,Lorentz transmission electron microscopy,supporting
+N04,Magnetic Imaging,Scanning probe,magnetic force microscopy,supporting
+N05,Micromagnetic Simulation,Codes,MuMax3,core
+N05,Micromagnetic Simulation,Codes,micromagnetic simulation,supporting
+N06,Room-Temperature Ferromagnetism,Curie temperature,above room temperature,core
+N06,Room-Temperature Ferromagnetism,Curie temperature,Curie temperature,supporting
+N07,Magnetic Anisotropy,Perpendicular,perpendicular magnetic anisotropy,core
+N07,Magnetic Anisotropy,Perpendicular,uniaxial anisotropy,supporting
+N08,Spin-Orbit Torque,Switching,spin-orbit torque,supporting
+N08,Spin-Orbit Torque,Switching,current-induced magnetization switching,supporting
+N09,Domain Wall Dynamics,Motion,domain wall motion,supporting
+N10,Topological Hall Effect,Transport,topological Hall effect,supporting
+N10,Topological Hall Effect,Transport,anomalous Hall effect,background
+N11,Heterostructures & Interfaces,Proximity,van der Waals heterostructure,supporting
+N12,Magnetic Exchange,Exchange stiffness,exchange stiffness,background
+N13,First-Principles Theory,DFT,density functional theory,background
+N14,Devices & Applications,Racetrack,racetrack memory,background

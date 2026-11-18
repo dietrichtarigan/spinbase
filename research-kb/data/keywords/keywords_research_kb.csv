@@ -1,0 +1,420 @@
+node_id,node,sub_node,keyword,priority
+N01,Unconventional Computing,Reservoir computing,reservoir computing,core
+N01,Unconventional Computing,Reservoir computing,physical reservoir computing,core
+N01,Unconventional Computing,Reservoir computing,spintronic reservoir computing,core
+N01,Unconventional Computing,Reservoir computing,skyrmion reservoir computing,core
+N01,Unconventional Computing,Reservoir computing,magnetic reservoir computing,core
+N01,Unconventional Computing,Reservoir computing,echo state network,supporting
+N01,Unconventional Computing,Reservoir computing,liquid state machine,background
+N01,Unconventional Computing,Reservoir computing,extreme learning machine,background
+N01,Unconventional Computing,Reservoir computing,memory capacity reservoir,supporting
+N01,Unconventional Computing,Reservoir computing,NARMA benchmark,supporting
+N01,Unconventional Computing,Reservoir computing,time-series prediction hardware,supporting
+N01,Unconventional Computing,Reservoir computing,nonlinearity and fading memory,supporting
+N01,Unconventional Computing,Reservoir computing,reservoir readout training,background
+N01,Unconventional Computing,Reservoir computing,delay-based reservoir,background
+N01,Unconventional Computing,Reservoir computing,single-node reservoir,background
+N01,Unconventional Computing,Reservoir computing,reservoir computing with oscillators,supporting
+N01,Unconventional Computing,Reservoir computing,reservoir computing edge devices,background
+N01,Unconventional Computing,In-materia computing,in-materia computing,core
+N01,Unconventional Computing,In-materia computing,material computing,supporting
+N01,Unconventional Computing,In-materia computing,physical neural networks,supporting
+N01,Unconventional Computing,In-materia computing,analog computing hardware,supporting
+N01,Unconventional Computing,In-materia computing,computing with nonlinear dynamics,supporting
+N01,Unconventional Computing,In-materia computing,unconventional computing review,core
+N01,Unconventional Computing,Probabilistic computing,probabilistic computing,supporting
+N01,Unconventional Computing,Probabilistic computing,p-bits,supporting
+N01,Unconventional Computing,Probabilistic computing,stochastic magnetic tunnel junction,supporting
+N01,Unconventional Computing,Probabilistic computing,Ising machine,background
+N01,Unconventional Computing,Probabilistic computing,Brownian computing,background
+N01,Unconventional Computing,Probabilistic computing,true random number generator spintronic,background
+N01,Unconventional Computing,Probabilistic computing,Boltzmann machine hardware,background
+N01,Unconventional Computing,In-memory computing,in-memory computing,supporting
+N01,Unconventional Computing,In-memory computing,computing-in-memory spintronic,supporting
+N01,Unconventional Computing,In-memory computing,von Neumann bottleneck,background
+N01,Unconventional Computing,In-memory computing,energy-efficient AI hardware,background
+N01,Unconventional Computing,Hybrid and quantum,hybrid quantum magnonics,background
+N01,Unconventional Computing,Hybrid and quantum,quantum reservoir computing,background
+N02,Neuromorphic Computing,Neurons and synapses,neuromorphic computing,core
+N02,Neuromorphic Computing,Neurons and synapses,spintronic neuromorphic,core
+N02,Neuromorphic Computing,Neurons and synapses,artificial synapse,supporting
+N02,Neuromorphic Computing,Neurons and synapses,artificial neuron,supporting
+N02,Neuromorphic Computing,Neurons and synapses,spintronic neuron,core
+N02,Neuromorphic Computing,Neurons and synapses,spintronic synapse,core
+N02,Neuromorphic Computing,Neurons and synapses,skyrmion neuron,core
+N02,Neuromorphic Computing,Neurons and synapses,skyrmion synapse,core
+N02,Neuromorphic Computing,Neurons and synapses,domain wall neuron,supporting
+N02,Neuromorphic Computing,Neurons and synapses,domain wall synapse,supporting
+N02,Neuromorphic Computing,Neurons and synapses,leaky integrate-and-fire neuron,supporting
+N02,Neuromorphic Computing,Neurons and synapses,spike-timing-dependent plasticity,supporting
+N02,Neuromorphic Computing,Neurons and synapses,synaptic plasticity device,supporting
+N02,Neuromorphic Computing,Neurons and synapses,multilevel synaptic weights,background
+N02,Neuromorphic Computing,Networks,spiking neural network,supporting
+N02,Neuromorphic Computing,Networks,spiking neural network hardware,supporting
+N02,Neuromorphic Computing,Networks,oscillatory neural network,supporting
+N02,Neuromorphic Computing,Networks,spin-torque oscillator neural network,core
+N02,Neuromorphic Computing,Networks,Hopfield network hardware,background
+N02,Neuromorphic Computing,Networks,associative memory oscillators,background
+N02,Neuromorphic Computing,Networks,crossbar array neural network,supporting
+N02,Neuromorphic Computing,Networks,on-chip learning,background
+N02,Neuromorphic Computing,Networks,neuromorphic vowel recognition,background
+N02,Neuromorphic Computing,Networks,neuromorphic computing review,core
+N02,Neuromorphic Computing,Memristive devices,memristor,supporting
+N02,Neuromorphic Computing,Memristive devices,memristive crossbar,supporting
+N02,Neuromorphic Computing,Memristive devices,resistive switching memory,background
+N02,Neuromorphic Computing,Memristive devices,magnetic memristor,supporting
+N02,Neuromorphic Computing,Memristive devices,spin memristor,supporting
+N02,Neuromorphic Computing,Memristive devices,phase change memory neuromorphic,background
+N02,Neuromorphic Computing,Memristive devices,ferroelectric neuromorphic,background
+N03,Magnonics,Fundamentals,magnonics,core
+N03,Magnonics,Fundamentals,spin waves,core
+N03,Magnonics,Fundamentals,magnon,core
+N03,Magnonics,Fundamentals,spin wave dispersion,core
+N03,Magnonics,Fundamentals,Damon-Eshbach spin waves,supporting
+N03,Magnonics,Fundamentals,backward volume magnetostatic waves,supporting
+N03,Magnonics,Fundamentals,forward volume magnetostatic waves,supporting
+N03,Magnonics,Fundamentals,exchange spin waves,supporting
+N03,Magnonics,Fundamentals,spin wave nonreciprocity,supporting
+N03,Magnonics,Fundamentals,magnon spintronics,core
+N03,Magnonics,Fundamentals,magnonics roadmap,core
+N03,Magnonics,Fundamentals,magnon Bose-Einstein condensation,background
+N03,Magnonics,Circuits and devices,magnonic circuit,core
+N03,Magnonics,Circuits and devices,magnon logic gates,core
+N03,Magnonics,Circuits and devices,magnonic crystal,supporting
+N03,Magnonics,Circuits and devices,magnonic waveguide,core
+N03,Magnonics,Circuits and devices,magnon transistor,supporting
+N03,Magnonics,Circuits and devices,spin wave majority gate,supporting
+N03,Magnonics,Circuits and devices,spin wave interference computing,supporting
+N03,Magnonics,Circuits and devices,spin wave multiplexer,background
+N03,Magnonics,Circuits and devices,spin wave directional coupler,background
+N03,Magnonics,Circuits and devices,spin wave nanoscale scaling,core
+N03,Magnonics,Circuits and devices,magnon-based computing energy,supporting
+N03,Magnonics,Circuits and devices,inverse design magnonic devices,supporting
+N03,Magnonics,Circuits and devices,magnonic neural network,core
+N03,Magnonics,Circuits and devices,magnonic reservoir computing,core
+N03,Magnonics,Circuits and devices,spin wave neuromorphic,core
+N03,Magnonics,Magnon excitation and detection,spin wave excitation by spin-orbit torque,supporting
+N03,Magnonics,Magnon excitation and detection,propagating spin wave spectroscopy,supporting
+N03,Magnonics,Magnon excitation and detection,Brillouin light scattering,core
+N03,Magnonics,Magnon excitation and detection,time-resolved MOKE spin waves,supporting
+N03,Magnonics,Magnon excitation and detection,inverse spin Hall detection of magnons,supporting
+N03,Magnonics,Magnon excitation and detection,parametric pumping magnons,background
+N03,Magnonics,Magnon excitation and detection,magnon-phonon coupling,background
+N03,Magnonics,Magnon excitation and detection,magnon-photon coupling,background
+N03,Magnonics,Magnon excitation and detection,cavity magnonics,background
+N03,Magnonics,Magnon excitation and detection,quantum magnonics,background
+N03,Magnonics,Textures and magnons,skyrmion magnon modes,core
+N03,Magnonics,Textures and magnons,spin waves in domain walls,supporting
+N03,Magnonics,Textures and magnons,magnon-skyrmion scattering,core
+N03,Magnonics,Textures and magnons,magnon-driven skyrmion motion,core
+N03,Magnonics,Textures and magnons,topological magnons,supporting
+N03,Magnonics,Textures and magnons,magnons in 2D van der Waals magnets,core
+N03,Magnonics,Textures and magnons,antiferromagnetic magnons,supporting
+N03,Magnonics,Textures and magnons,altermagnet magnons,supporting
+N03,Magnonics,Textures and magnons,magnon spin current,supporting
+N03,Magnonics,Textures and magnons,spin Seebeck effect,background
+N03,Magnonics,Textures and magnons,magnon Hall effect,background
+N03,Magnonics,Materials,YIG yttrium iron garnet thin film,supporting
+N03,Magnonics,Materials,low-damping magnetic insulators,supporting
+N03,Magnonics,Materials,Gilbert damping measurement,supporting
+N03,Magnonics,Materials,permalloy spin waves,supporting
+N03,Magnonics,Materials,CoFeB spin waves,supporting
+N04,Spintronics Fundamentals,Torques and currents,spintronics,core
+N04,Spintronics Fundamentals,Torques and currents,spin transfer torque,core
+N04,Spintronics Fundamentals,Torques and currents,spin-orbit torque,core
+N04,Spintronics Fundamentals,Torques and currents,field-free spin-orbit torque switching,core
+N04,Spintronics Fundamentals,Torques and currents,spin Hall effect,core
+N04,Spintronics Fundamentals,Torques and currents,inverse spin Hall effect,supporting
+N04,Spintronics Fundamentals,Torques and currents,Rashba-Edelstein effect,supporting
+N04,Spintronics Fundamentals,Torques and currents,spin pumping,supporting
+N04,Spintronics Fundamentals,Torques and currents,spin Hall magnetoresistance,background
+N04,Spintronics Fundamentals,Torques and currents,spin accumulation and diffusion,background
+N04,Spintronics Fundamentals,Torques and currents,orbital Hall effect,supporting
+N04,Spintronics Fundamentals,Torques and currents,orbital torque,supporting
+N04,Spintronics Fundamentals,Torques and currents,orbitronics,supporting
+N04,Spintronics Fundamentals,Torques and currents,spin caloritronics,background
+N04,Spintronics Fundamentals,Torques and currents,voltage-controlled magnetic anisotropy,supporting
+N04,Spintronics Fundamentals,Torques and currents,electric-field control of magnetism,supporting
+N04,Spintronics Fundamentals,Torques and currents,magnetoelectric coupling,background
+N04,Spintronics Fundamentals,Transport signatures,anomalous Hall effect,core
+N04,Spintronics Fundamentals,Transport signatures,topological Hall effect,core
+N04,Spintronics Fundamentals,Transport signatures,giant magnetoresistance,supporting
+N04,Spintronics Fundamentals,Transport signatures,tunneling magnetoresistance,core
+N04,Spintronics Fundamentals,Transport signatures,anisotropic magnetoresistance,background
+N04,Spintronics Fundamentals,Transport signatures,planar Hall effect,background
+N04,Spintronics Fundamentals,Transport signatures,Berry curvature anomalous Hall,supporting
+N04,Spintronics Fundamentals,Transport signatures,spin-orbit coupling magnetic materials,supporting
+N05,MTJ and Memory Devices,Magnetic tunnel junction,magnetic tunnel junction,core
+N05,MTJ and Memory Devices,Magnetic tunnel junction,MTJ,core
+N05,MTJ and Memory Devices,Magnetic tunnel junction,CoFeB/MgO magnetic tunnel junction,supporting
+N05,MTJ and Memory Devices,Magnetic tunnel junction,perpendicular magnetic tunnel junction,core
+N05,MTJ and Memory Devices,Magnetic tunnel junction,tunnel magnetoresistance ratio,core
+N05,MTJ and Memory Devices,Magnetic tunnel junction,thermal stability factor,supporting
+N05,MTJ and Memory Devices,Magnetic tunnel junction,MTJ scaling to sub-20 nm,core
+N05,MTJ and Memory Devices,Magnetic tunnel junction,MTJ switching probability,supporting
+N05,MTJ and Memory Devices,Magnetic tunnel junction,write error rate,background
+N05,MTJ and Memory Devices,Magnetic tunnel junction,retention and endurance MTJ,background
+N05,MTJ and Memory Devices,Magnetic tunnel junction,superparamagnetic tunnel junction,supporting
+N05,MTJ and Memory Devices,Magnetic tunnel junction,van der Waals magnetic tunnel junction,core
+N05,MTJ and Memory Devices,Magnetic tunnel junction,Fe3GaTe2 magnetic tunnel junction,core
+N05,MTJ and Memory Devices,Magnetic tunnel junction,all-2D magnetic tunnel junction,core
+N05,MTJ and Memory Devices,MRAM,MRAM,supporting
+N05,MTJ and Memory Devices,MRAM,STT-MRAM,supporting
+N05,MTJ and Memory Devices,MRAM,SOT-MRAM,supporting
+N05,MTJ and Memory Devices,MRAM,embedded MRAM,background
+N05,MTJ and Memory Devices,MRAM,nonvolatile memory beyond CMOS,supporting
+N05,MTJ and Memory Devices,MRAM,racetrack memory,core
+N05,MTJ and Memory Devices,MRAM,skyrmion racetrack memory,core
+N05,MTJ and Memory Devices,MRAM,three-terminal magnetic memory,supporting
+N05,MTJ and Memory Devices,Compact models,MTJ compact model,supporting
+N05,MTJ and Memory Devices,Compact models,Verilog-A spintronic device model,background
+N05,MTJ and Memory Devices,Compact models,SPICE model magnetic device,background
+N05,MTJ and Memory Devices,Compact models,MTJ variability,background
+N05,MTJ and Memory Devices,Compact models,device-circuit co-design spintronic,supporting
+N06,Spin Torque Oscillators,Nano-oscillators,spin torque nano-oscillator,core
+N06,Spin Torque Oscillators,Nano-oscillators,spin Hall nano-oscillator,core
+N06,Spin Torque Oscillators,Nano-oscillators,mutual synchronization of oscillators,supporting
+N06,Spin Torque Oscillators,Nano-oscillators,oscillator array synchronization,supporting
+N06,Spin Torque Oscillators,Nano-oscillators,vortex-based oscillator,supporting
+N06,Spin Torque Oscillators,Nano-oscillators,skyrmion-based oscillator,core
+N06,Spin Torque Oscillators,Nano-oscillators,auto-oscillation threshold,background
+N06,Spin Torque Oscillators,Nano-oscillators,injection locking spin torque,background
+N06,Spin Torque Oscillators,Nano-oscillators,microwave signal generation spintronic,background
+N06,Spin Torque Oscillators,Nano-oscillators,spintronic microwave detector,background
+N06,Spin Torque Oscillators,Nano-oscillators,antiferromagnetic oscillator THz,background
+N07,Micromagnetics and Simulation,Frameworks,micromagnetics,core
+N07,Micromagnetics and Simulation,Frameworks,mumax3,core
+N07,Micromagnetics and Simulation,Frameworks,MuMax+,core
+N07,Micromagnetics and Simulation,Frameworks,OOMMF,supporting
+N07,Micromagnetics and Simulation,Frameworks,Boris computational spintronics,supporting
+N07,Micromagnetics and Simulation,Frameworks,finite element micromagnetics,background
+N07,Micromagnetics and Simulation,Frameworks,GPU-accelerated micromagnetic simulation,supporting
+N07,Micromagnetics and Simulation,Frameworks,Ubermag,background
+N07,Micromagnetics and Simulation,Frameworks,micromagnetic benchmark problems,supporting
+N07,Micromagnetics and Simulation,Equations,Landau-Lifshitz-Gilbert equation,core
+N07,Micromagnetics and Simulation,Equations,Landau-Lifshitz-Bloch equation,supporting
+N07,Micromagnetics and Simulation,Equations,Slonczewski torque in micromagnetics,supporting
+N07,Micromagnetics and Simulation,Equations,thermal fluctuations Langevin micromagnetics,supporting
+N07,Micromagnetics and Simulation,Equations,Thiele equation,core
+N07,Micromagnetics and Simulation,Energy terms,exchange stiffness,core
+N07,Micromagnetics and Simulation,Energy terms,Dzyaloshinskii-Moriya interaction,core
+N07,Micromagnetics and Simulation,Energy terms,interfacial DMI,core
+N07,Micromagnetics and Simulation,Energy terms,bulk DMI,core
+N07,Micromagnetics and Simulation,Energy terms,magnetocrystalline anisotropy,core
+N07,Micromagnetics and Simulation,Energy terms,demagnetizing field,supporting
+N07,Micromagnetics and Simulation,Energy terms,saturation magnetization,core
+N07,Micromagnetics and Simulation,Energy terms,micromagnetic parameter extraction,core
+N07,Micromagnetics and Simulation,Multiscale,atomistic spin dynamics,supporting
+N07,Micromagnetics and Simulation,Multiscale,VAMPIRE atomistic simulation,supporting
+N07,Micromagnetics and Simulation,Multiscale,Heisenberg Hamiltonian first principles,core
+N07,Micromagnetics and Simulation,Multiscale,DFT exchange and DMI calculation,core
+N07,Micromagnetics and Simulation,Multiscale,Monte Carlo simulation spin model,supporting
+N07,Micromagnetics and Simulation,Multiscale,multiscale modeling magnetism,supporting
+N07,Micromagnetics and Simulation,Stability analysis,skyrmion energy barrier,core
+N07,Micromagnetics and Simulation,Stability analysis,geodesic nudged elastic band,core
+N07,Micromagnetics and Simulation,Stability analysis,minimum energy path skyrmion collapse,core
+N07,Micromagnetics and Simulation,Stability analysis,thermal stability of skyrmions,core
+N07,Micromagnetics and Simulation,Stability analysis,phase diagram of magnetic textures,core
+N07,Micromagnetics and Simulation,ML for simulation,neural network surrogate micromagnetics,supporting
+N07,Micromagnetics and Simulation,ML for simulation,machine learning magnetic simulation,supporting
+N07,Micromagnetics and Simulation,ML for simulation,physics-informed neural network micromagnetics,background
+N07,Micromagnetics and Simulation,ML for simulation,differentiable micromagnetics,background
+N08,Skyrmions and Topological Textures,Skyrmion types,magnetic skyrmion,core
+N08,Skyrmions and Topological Textures,Skyrmion types,Neel-type skyrmion,core
+N08,Skyrmions and Topological Textures,Skyrmion types,Bloch-type skyrmion,core
+N08,Skyrmions and Topological Textures,Skyrmion types,antiskyrmion,supporting
+N08,Skyrmions and Topological Textures,Skyrmion types,biskyrmion,supporting
+N08,Skyrmions and Topological Textures,Skyrmion types,skyrmion bubble,core
+N08,Skyrmions and Topological Textures,Skyrmion types,skyrmionium,supporting
+N08,Skyrmions and Topological Textures,Skyrmion types,bimeron,supporting
+N08,Skyrmions and Topological Textures,Skyrmion types,magnetic meron,supporting
+N08,Skyrmions and Topological Textures,Skyrmion types,hopfion,background
+N08,Skyrmions and Topological Textures,Skyrmion types,antiferromagnetic skyrmion,supporting
+N08,Skyrmions and Topological Textures,Skyrmion types,ferrimagnetic skyrmion,supporting
+N08,Skyrmions and Topological Textures,Skyrmion types,skyrmion lattice,core
+N08,Skyrmions and Topological Textures,Skyrmion types,room-temperature skyrmion,core
+N08,Skyrmions and Topological Textures,Skyrmion types,chiral magnetic textures,core
+N08,Skyrmions and Topological Textures,Skyrmion types,topological charge,core
+N08,Skyrmions and Topological Textures,Skyrmion creation and control,skyrmion nucleation,core
+N08,Skyrmions and Topological Textures,Skyrmion creation and control,skyrmion creation by current pulse,core
+N08,Skyrmions and Topological Textures,Skyrmion creation and control,skyrmion annihilation,core
+N08,Skyrmions and Topological Textures,Skyrmion creation and control,skyrmion writing and deleting,core
+N08,Skyrmions and Topological Textures,Skyrmion creation and control,skyrmion electric-field control,supporting
+N08,Skyrmions and Topological Textures,Skyrmion creation and control,skyrmion laser writing,supporting
+N08,Skyrmions and Topological Textures,Skyrmion creation and control,thermally induced skyrmion,supporting
+N08,Skyrmions and Topological Textures,Skyrmion creation and control,skyrmion size and stability,core
+N08,Skyrmions and Topological Textures,Skyrmion creation and control,skyrmion pinning and defects,core
+N08,Skyrmions and Topological Textures,Skyrmion dynamics,skyrmion motion,core
+N08,Skyrmions and Topological Textures,Skyrmion dynamics,skyrmion Hall effect,core
+N08,Skyrmions and Topological Textures,Skyrmion dynamics,skyrmion velocity current-driven,core
+N08,Skyrmions and Topological Textures,Skyrmion dynamics,skyrmion diffusion,supporting
+N08,Skyrmions and Topological Textures,Skyrmion dynamics,skyrmion breathing mode,supporting
+N08,Skyrmions and Topological Textures,Skyrmion dynamics,skyrmion gyrotropic mode,supporting
+N08,Skyrmions and Topological Textures,Skyrmion dynamics,skyrmion-skyrmion interaction,supporting
+N08,Skyrmions and Topological Textures,Skyrmion dynamics,skyrmion edge repulsion,supporting
+N08,Skyrmions and Topological Textures,Skyrmion applications,skyrmion-based computing,core
+N08,Skyrmions and Topological Textures,Skyrmion applications,skyrmion logic gate,core
+N08,Skyrmions and Topological Textures,Skyrmion applications,skyrmion transistor,supporting
+N08,Skyrmions and Topological Textures,Skyrmion applications,skyrmion diode,supporting
+N08,Skyrmions and Topological Textures,Skyrmion applications,skyrmion memory,core
+N08,Skyrmions and Topological Textures,Skyrmion applications,skyrmion neuromorphic computing,core
+N08,Skyrmions and Topological Textures,Skyrmion applications,skyrmion artificial synapse,core
+N08,Skyrmions and Topological Textures,Skyrmion applications,skyrmion detection electrical readout,core
+N08,Skyrmions and Topological Textures,Skyrmion applications,skyrmion review roadmap,core
+N09,Domains and Domain Walls,Domain structures,magnetic domain,core
+N09,Domains and Domain Walls,Domain structures,stripe domain,core
+N09,Domains and Domain Walls,Domain structures,maze domain,core
+N09,Domains and Domain Walls,Domain structures,bubble domain,core
+N09,Domains and Domain Walls,Domain structures,domain nucleation and growth,core
+N09,Domains and Domain Walls,Domain structures,domain wall width,supporting
+N09,Domains and Domain Walls,Domain structures,Barkhausen noise,background
+N09,Domains and Domain Walls,Domain structures,magnetic vortex,supporting
+N09,Domains and Domain Walls,Domain structures,vortex core switching,background
+N09,Domains and Domain Walls,Domain walls,domain wall motion,core
+N09,Domains and Domain Walls,Domain walls,current-driven domain wall motion,core
+N09,Domains and Domain Walls,Domain walls,Walker breakdown,supporting
+N09,Domains and Domain Walls,Domain walls,domain wall pinning,supporting
+N09,Domains and Domain Walls,Domain walls,chiral domain wall,core
+N09,Domains and Domain Walls,Domain walls,domain wall racetrack,core
+N09,Domains and Domain Walls,Domain walls,domain wall logic,supporting
+N09,Domains and Domain Walls,Domain walls,domain wall to skyrmion transition,core
+N09,Domains and Domain Walls,Imaging,magnetic domain imaging,core
+N09,Domains and Domain Walls,Imaging,Kerr microscopy domain,core
+N09,Domains and Domain Walls,Imaging,magnetic domain evolution under field,core
+N09,Domains and Domain Walls,Imaging,hysteresis and domain reversal,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 skyrmion,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 room temperature ferromagnetism,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 magnetic anisotropy,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 domain structure,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 spin-orbit torque,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 anomalous Hall effect,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 thickness dependence,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 Lorentz TEM,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 MOKE,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 DMI,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 Curie temperature,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 growth and flux method,supporting
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GaTe2 heterostructure,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GeTe2,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GeTe2 skyrmion,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GeTe2 spin-orbit torque,core
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3GeTe2 ionic gating,supporting
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe4GeTe2,supporting
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe5GeTe2,supporting
+N10,2D van der Waals Magnets,Fe-Ga-Te and Fe-Ge-Te family,Fe3-xGeTe2 Fe vacancy,supporting
+N10,2D van der Waals Magnets,Other vdW magnets,CrI3,supporting
+N10,2D van der Waals Magnets,Other vdW magnets,Cr2Ge2Te6,supporting
+N10,2D van der Waals Magnets,Other vdW magnets,CrTe2,supporting
+N10,2D van der Waals Magnets,Other vdW magnets,CrSBr,supporting
+N10,2D van der Waals Magnets,Other vdW magnets,VSe2 magnetism,background
+N10,2D van der Waals Magnets,Other vdW magnets,MnBi2Te4,background
+N10,2D van der Waals Magnets,Other vdW magnets,NiPS3 and MnPS3 antiferromagnets,background
+N10,2D van der Waals Magnets,Concepts,two-dimensional magnetism,core
+N10,2D van der Waals Magnets,Concepts,Mermin-Wagner theorem and anisotropy,supporting
+N10,2D van der Waals Magnets,Concepts,van der Waals magnet review,core
+N10,2D van der Waals Magnets,Concepts,2D magnet spintronics,core
+N10,2D van der Waals Magnets,Concepts,van der Waals heterostructure spintronics,core
+N10,2D van der Waals Magnets,Concepts,gate-tunable magnetism,supporting
+N10,2D van der Waals Magnets,Concepts,moire magnetism,background
+N10,2D van der Waals Magnets,Concepts,magnetic proximity effect vdW,supporting
+N10,2D van der Waals Magnets,Concepts,strain engineering of 2D magnets,supporting
+N10,2D van der Waals Magnets,Concepts,intercalation of vdW magnets,background
+N11,Experimental Techniques,Optical,magneto-optical Kerr effect,core
+N11,Experimental Techniques,Optical,polar MOKE microscopy,core
+N11,Experimental Techniques,Optical,MOKE of 2D magnets,core
+N11,Experimental Techniques,Optical,time-resolved MOKE,supporting
+N11,Experimental Techniques,Optical,magneto-optical imaging,supporting
+N11,Experimental Techniques,Optical,reflective magnetic circular dichroism,supporting
+N11,Experimental Techniques,Electron and X-ray,Lorentz transmission electron microscopy,core
+N11,Experimental Techniques,Electron and X-ray,electron holography magnetic,supporting
+N11,Experimental Techniques,Electron and X-ray,XMCD-PEEM,supporting
+N11,Experimental Techniques,Electron and X-ray,scanning transmission X-ray microscopy,supporting
+N11,Experimental Techniques,Electron and X-ray,X-ray magnetic circular dichroism,supporting
+N11,Experimental Techniques,Electron and X-ray,spin-polarized STM,supporting
+N11,Experimental Techniques,Electron and X-ray,small-angle neutron scattering skyrmion,supporting
+N11,Experimental Techniques,Scanning probe,magnetic force microscopy,core
+N11,Experimental Techniques,Scanning probe,NV center magnetometry,supporting
+N11,Experimental Techniques,Scanning probe,scanning SQUID microscopy,background
+N11,Experimental Techniques,Magnetometry and transport,SQUID magnetometry,supporting
+N11,Experimental Techniques,Magnetometry and transport,vibrating sample magnetometry,background
+N11,Experimental Techniques,Magnetometry and transport,ferromagnetic resonance,core
+N11,Experimental Techniques,Magnetometry and transport,Hall bar measurement,core
+N11,Experimental Techniques,Magnetometry and transport,anomalous Hall measurement 2D flake,core
+N11,Experimental Techniques,Magnetometry and transport,low-temperature magnetotransport,supporting
+N11,Experimental Techniques,Fabrication,mechanical exfoliation of vdW crystals,supporting
+N11,Experimental Techniques,Fabrication,dry transfer vdW heterostructure,supporting
+N11,Experimental Techniques,Fabrication,electron beam lithography device fabrication,supporting
+N11,Experimental Techniques,Fabrication,glovebox air-sensitive sample handling,background
+N11,Experimental Techniques,Fabrication,thin film sputtering magnetic multilayers,supporting
+N11,Experimental Techniques,Fabrication,molecular beam epitaxy of magnetic films,background
+N11,Experimental Techniques,Fabrication,chemical vapor transport crystal growth,background
+N12,Nanoelectronics and Devices,Beyond CMOS,nanoelectronics,core
+N12,Nanoelectronics and Devices,Beyond CMOS,beyond CMOS devices,core
+N12,Nanoelectronics and Devices,Beyond CMOS,beyond CMOS spintronic logic,core
+N12,Nanoelectronics and Devices,Beyond CMOS,MESO magnetoelectric spin-orbit logic,supporting
+N12,Nanoelectronics and Devices,Beyond CMOS,spin logic,supporting
+N12,Nanoelectronics and Devices,Beyond CMOS,nanomagnet logic,supporting
+N12,Nanoelectronics and Devices,Beyond CMOS,magnetic cellular automata,background
+N12,Nanoelectronics and Devices,Beyond CMOS,IRDS beyond CMOS roadmap,supporting
+N12,Nanoelectronics and Devices,Beyond CMOS,benchmarking beyond CMOS devices,supporting
+N12,Nanoelectronics and Devices,Scaling and integration,device scaling,core
+N12,Nanoelectronics and Devices,Scaling and integration,nanoscale magnetic device scaling,core
+N12,Nanoelectronics and Devices,Scaling and integration,skyrmion device downscaling,core
+N12,Nanoelectronics and Devices,Scaling and integration,energy-delay product,supporting
+N12,Nanoelectronics and Devices,Scaling and integration,switching energy per bit,supporting
+N12,Nanoelectronics and Devices,Scaling and integration,CMOS integration of spintronics,supporting
+N12,Nanoelectronics and Devices,Scaling and integration,back-end-of-line integration,background
+N12,Nanoelectronics and Devices,Scaling and integration,heterogeneous integration spintronics,background
+N12,Nanoelectronics and Devices,Scaling and integration,vdW material device integration wafer-scale,supporting
+N12,Nanoelectronics and Devices,Scaling and integration,device variability and yield,background
+N12,Nanoelectronics and Devices,Nanostructures,nanowire spintronic devices,supporting
+N12,Nanoelectronics and Devices,Nanostructures,nanotrack skyrmion device,core
+N12,Nanoelectronics and Devices,Nanostructures,confinement effects in nanodots,supporting
+N12,Nanoelectronics and Devices,Nanostructures,nanodisk magnetic ground state,supporting
+N12,Nanoelectronics and Devices,Nanostructures,single-electron and quantum dot spintronics,background
+N12,Nanoelectronics and Devices,Circuits,spintronic circuit design,supporting
+N12,Nanoelectronics and Devices,Circuits,circuit-level simulation spintronic,supporting
+N12,Nanoelectronics and Devices,Circuits,analog-digital interface neuromorphic,background
+N12,Nanoelectronics and Devices,Circuits,read-out electronics for nanodevices,background
+N13,Magnetic Materials,Magnetic orders,ferromagnet,background
+N13,Magnetic Materials,Magnetic orders,ferrimagnet,supporting
+N13,Magnetic Materials,Magnetic orders,antiferromagnet,supporting
+N13,Magnetic Materials,Magnetic orders,altermagnet,supporting
+N13,Magnetic Materials,Magnetic orders,synthetic antiferromagnet,supporting
+N13,Magnetic Materials,Magnetic orders,antiferromagnetic spintronics,supporting
+N13,Magnetic Materials,Magnetic orders,Neel vector switching,background
+N13,Magnetic Materials,Chiral and topological magnets,chiral magnets MnSi FeGe,supporting
+N13,Magnetic Materials,Chiral and topological magnets,Co-Zn-Mn beta-Mn skyrmion,background
+N13,Magnetic Materials,Chiral and topological magnets,GaV4S8 and lacunar spinel skyrmion,background
+N13,Magnetic Materials,Chiral and topological magnets,magnetic Weyl semimetal,background
+N13,Magnetic Materials,Chiral and topological magnets,topological insulator magnetic doping,background
+N13,Magnetic Materials,Chiral and topological magnets,kagome magnet,background
+N13,Magnetic Materials,Thin films and interfaces,Pt/Co/Ir multilayer skyrmion,core
+N13,Magnetic Materials,Thin films and interfaces,ferromagnet heavy metal bilayer,core
+N13,Magnetic Materials,Thin films and interfaces,perpendicular magnetic anisotropy,core
+N13,Magnetic Materials,Thin films and interfaces,interface engineering DMI,core
+N13,Magnetic Materials,Thin films and interfaces,Co/Pt Co/Ta Co/W interfaces,supporting
+N13,Magnetic Materials,Thin films and interfaces,oxide interface magnetism,background
+N13,Magnetic Materials,Thin films and interfaces,magnetic proximity effect,supporting
+N13,Magnetic Materials,Thin films and interfaces,Heusler alloy spintronics,background
+N13,Magnetic Materials,Thin films and interfaces,half-metallic ferromagnet,background
+N13,Magnetic Materials,Thin films and interfaces,magnetic insulators garnet,supporting
+N13,Magnetic Materials,Thin films and interfaces,multiferroic BiFeO3,background
+N13,Magnetic Materials,Thin films and interfaces,strain and doping control of magnetism,supporting
+N14,AI and Data Tools for Research,Machine learning for materials,machine learning materials discovery,supporting
+N14,AI and Data Tools for Research,Machine learning for materials,inverse design magnetic materials,supporting
+N14,AI and Data Tools for Research,Machine learning for materials,Bayesian optimization experiments,background
+N14,AI and Data Tools for Research,Machine learning for materials,active learning materials,background
+N14,AI and Data Tools for Research,Machine learning for materials,high-throughput DFT magnetic materials,supporting
+N14,AI and Data Tools for Research,Machine learning for materials,machine learning interatomic potential magnetic,background
+N14,AI and Data Tools for Research,Machine learning for materials,machine learning skyrmion detection,supporting
+N14,AI and Data Tools for Research,Machine learning for materials,automated domain image analysis,supporting
+N14,AI and Data Tools for Research,Literature and knowledge systems,LLM for scientific literature,supporting
+N14,AI and Data Tools for Research,Literature and knowledge systems,retrieval-augmented generation scientific papers,supporting
+N14,AI and Data Tools for Research,Literature and knowledge systems,materials knowledge graph,supporting
+N14,AI and Data Tools for Research,Literature and knowledge systems,information extraction materials science,supporting
+N14,AI and Data Tools for Research,Literature and knowledge systems,text mining magnetic materials database,supporting
+N14,AI and Data Tools for Research,Literature and knowledge systems,named entity recognition materials,background
+N14,AI and Data Tools for Research,Literature and knowledge systems,Curie temperature database,supporting
+N14,AI and Data Tools for Research,Literature and knowledge systems,research data management FAIR,background
